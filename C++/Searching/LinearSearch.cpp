@@ -22,7 +22,7 @@ bool linearSearch(int arr[], int n, int key)
 
     // Search failure
     return false;    
-}
+}[
 
 
 int main() 
@@ -101,4 +101,4 @@ The element is not present in the given array!
 
 */
 
-
+    
