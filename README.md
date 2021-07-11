@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-by-developers.svg"/>&nbsp;&nbsp;&nbsp;
   <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://forthebadge.com/images/badges/built-with-swag.svg"/>&nbspedit/main/README.md;&nbsp;&nbsp;
+  <img src="https://forthebadge.com/images/badges/built-with-swag.svg"/>&nbsp;&nbsp;&nbsp;
 </p>
 
 Rookee Alogs strives to be one stop solution for all your algorithms and Data structures in almost all popular programming languages.
