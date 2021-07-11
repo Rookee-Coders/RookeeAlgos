@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-by-developers.svg"/>&nbsp;&nbsp;&nbsp;
   <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://forthebadge.com/images/badges/built-with-swag.svg"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://forthebadge.com/images/badges/built-with-swag.svg"/>&nbspedit/main/README.md;&nbsp;&nbsp;
 </p>
 
 Rookee Alogs strives to be one stop solution for all your algorithms and Data structures in almost all popular programming languages.
@@ -24,10 +24,9 @@ Don't forget to say 👋 Hello on our [Discord](https://discord.gg/rGXT8HGH) ser
 
 Currenly we are accepting algorithms in the following programming languages:
 
-1. Python
-2. C
-3. C++
-4. JavaScript
+1. [Python](./Python/)
+2. [C++](./Python/)
+3. [JavaScript](./Python/)
 
 If you would like to work on any other programming language then feel free to open an issue and let us know.
 
