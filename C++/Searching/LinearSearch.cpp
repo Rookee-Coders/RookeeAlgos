@@ -100,5 +100,3 @@ Enter element to be searched: 8
 The element is not present in the given array!
 
 */
-
-    
